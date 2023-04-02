@@ -1,4 +1,4 @@
-# Stable-Diffusion-Regularization-Images-bird
+# Stable-Diffusion-Regularization-Images
 
 This houses an assortment of regularization images intended as a dataset suitable for use in Dreambooth training and other similar projects. The class token is included in the folder name, as well as the image file name. In the event that you would like to examine the generation parameters, these are accessible via the metadata of each image. It is worth noting, however, that all images in this collection were produced using the following generation parameters:
 
